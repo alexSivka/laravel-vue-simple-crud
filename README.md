@@ -1,8 +1,8 @@
-#Simple crud laravel+vue
+# Simple crud laravel+vue
 
 demo http://gtn-info.ru/jobs
 
-##Установка
+## install
 
 ``` bash
 # clone the repo
