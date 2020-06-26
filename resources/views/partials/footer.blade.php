@@ -1,0 +1,12 @@
+<footer class="footer">
+    <div class="footer-block buttons">
+
+    </div>
+    <div class="footer-block author">
+        <ul>
+            <li>
+            </li>
+
+        </ul>
+    </div>
+</footer>
