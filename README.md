@@ -1,6 +1,6 @@
 #Simple crud laravel+vue
 
-demo http://gtn-info.ru/
+demo http://gtn-info.ru/jobs
 
 ##Установка
 
@@ -9,6 +9,10 @@ demo http://gtn-info.ru/
 $ git clone https://github.com/alexSivka/laravel-vue-simple-crud my-project
 
 $ cd my-project
+
+```
+database options in .env
+```bash
 
 $ composer install
 
